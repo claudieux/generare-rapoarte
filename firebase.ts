@@ -21,6 +21,11 @@ const firebaseConfig = {
 // "Firestore Database" section, and click "Create database".
 // If you've done this and still face connection issues, check your
 // Firestore security rules.
+//
+// --- AUTHORIZED DOMAINS ---
+// Make sure to add the following domain to your Firebase project's authorized domains:
+// - magnadashboard.clxdigital.ro
+// Go to Firebase Console > Authentication > Settings > Authorized domains
 
 let app: FirebaseApp;
 let db: Firestore;
