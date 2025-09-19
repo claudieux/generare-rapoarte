@@ -1,0 +1,5 @@
+{
+  "name": "Marketing Performance Dashboard Generator",
+  "description": "An application for users to input marketing data and generate a custom, styled HTML performance dashboard.",
+  "requestFramePermissions": []
+}
