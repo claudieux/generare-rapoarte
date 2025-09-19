@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/clxdigital/public_html/magnadashboard
-    - /bin/cp -R dist/* $DEPLOYPATH/
+    - export DEPLOYPATH=/home/clxdigital/public_html/magnadashboard/
+    - /bin/cp -R dist/* $DEPLOYPATH
