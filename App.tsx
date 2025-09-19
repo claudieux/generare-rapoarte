@@ -429,7 +429,7 @@ const App: React.FC = () => {
                 </div>
 
                 <footer className="text-center mt-8 py-4">
-                    <p className="text-xs text-slate-500">©MagnaPharm 2025</p>
+                    <p className="text-xs text-slate-500">Property of MagnaPharm Marketing & Sales Romania - All rights reserved</p>
                 </footer>
 
                 {toast && (
