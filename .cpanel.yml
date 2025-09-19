@@ -1,4 +1,5 @@
 ---
 deployment:
   tasks:
-    - /bin/cp -R dist/* ./
+    - /bin/cp dist/index.html ./
+    - /bin/cp -R dist/assets ./
