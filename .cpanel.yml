@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/xitrfpww/magnadashboard.clxdigital.ro/
-    - /bin/cp -R dist/* $DEPLOYPATH
+    - /bin/cp dist/index.html ./
+    - /bin/cp -R dist/assets ./
